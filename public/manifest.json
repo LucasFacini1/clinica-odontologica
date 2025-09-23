@@ -1,0 +1,28 @@
+{
+  "short_name": "DentalCare",
+  "name": "DentalCare - Clínica Odontológica Moderna",
+  "description": "Clínica odontológica moderna em São Paulo com tecnologia de ponta e profissionais especializados",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["health", "medical", "business"]
+}
